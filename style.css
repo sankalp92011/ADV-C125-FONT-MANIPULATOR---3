@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  .heading{
+    width: 100%;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px black; 
+  }
+  #first , #second , #font_size{
+    color: black;
+  }
+  canvas{
+    border-width: 6px ;
+    border-style: dotted;
+    border-color:red ;
+    box-shadow: 5px 5px 5px blue; 
+  }
